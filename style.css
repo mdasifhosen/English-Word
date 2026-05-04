@@ -8,3 +8,16 @@
     background-color: #422ad5;
     color: white;
 }
+
+
+.clock {
+  text-align: center;
+  padding: 40px;
+  border-radius: 20px;
+
+  /* glass effect */
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+
+  box-shadow: 0 0 30px rgba(0,0,0,0.6);
+}
